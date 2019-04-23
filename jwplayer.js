@@ -4,7 +4,7 @@
    Copyright (c) 2019, JW Player, All Rights Reserved 
    This source code and its use and distribution is subject to the terms 
    and conditions of the applicable license agreement. 
-   https://www.jwplayer.com/tos/
+   https://www.jwplayer.com/tos/a
    This product includes portions of other software. For the full text of licenses, see
    https://ssl.p.jwpcdn.com/player/v/8.8.4/notice.txt
 */
@@ -375,7 +375,7 @@ var jwDefaults = {
   "key": "PMT0Fqw7JpRx4XBF2fV90FXhL1YP8zCZjgJt5M/mWyrHJxdXbSEYKNYfXw0=",
   "mute": false,
   "ph": 1,
-  "pid": "SPrnWq3s",
+  
   "playbackRateControls": true,
   "preload": "auto",
   "repeat": false,
