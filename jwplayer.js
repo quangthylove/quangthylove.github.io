@@ -372,7 +372,7 @@ var jwDefaults = {
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.8.4/jwplayer.flash.swf",
   "height": 270,
-  "key": "P52RcHjfhtox++WVCWKEPuKR8bqO0mTcAh1m8lW0V6uDFt82YqtKXclB7zE=",
+  "key": "6RiiNsW69yiN7OLrF7x02ncTLuH2SvKCUlJUxL6nGCi7bAzMwjbxvVInd4Y=",
   "mute": false,
   "ph": 1,
   "pid": "SPrnWq3s",
