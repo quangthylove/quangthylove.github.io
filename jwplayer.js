@@ -372,9 +372,10 @@ var jwDefaults = {
   "displaytitle": false,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.8.4/jwplayer.flash.swf",
   "height": 270,
-  "key": "6RiiNsW69yiN7OLrF7x02ncTLuH2SvKCUlJUxL6nGCi7bAzMwjbxvVInd4Y=",
+  "key": "FtQ+ubCVmOF2aj8ALHMi/lGfO4o7Oy7xpKmePA=",
   "mute": false,
   "ph": 1,
+  "pid": "SPrnWq3s",
   "playbackRateControls": true,
   "preload": "auto",
   "repeat": false,
@@ -387,6 +388,7 @@ var jwDefaults = {
     ]
   },
   "stagevideo": false,
+  "stretching": "uniform",
   "width": "100%"
 };
 jwplayer.defaults = jwDefaults;
