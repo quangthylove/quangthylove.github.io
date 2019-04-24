@@ -375,7 +375,6 @@ var jwDefaults = {
   "key": "6RiiNsW69yiN7OLrF7x02ncTLuH2SvKCUlJUxL6nGCi7bAzMwjbxvVInd4Y=",
   "mute": false,
   "ph": 1,
-  "pid": "SPrnWq3s",
   "playbackRateControls": true,
   "preload": "auto",
   "repeat": false,
@@ -388,7 +387,6 @@ var jwDefaults = {
     ]
   },
   "stagevideo": false,
-  "stretching": "uniform",
   "width": "100%"
 };
 jwplayer.defaults = jwDefaults;
