@@ -370,7 +370,7 @@ var jwDefaults = {
   "controls": true,
   "displaydescription": false,
   "displaytitle": false,
-  "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.8.4/jwplayer.flash.swf",
+  "flashplayer": "http://static.thanhnien.com.vn/Jscripts/jwplayerads/jwplayer.flash.swf",
   "height": 270,
   "key": "FtQ+ubCVmOF2aj8ALHMi/lGfO4o7Oy7xpKmePA=",
   "mute": false,
