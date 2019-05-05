@@ -3,7 +3,7 @@ var jwLogoBar = {
     var playerContainer = videoPlayer.getContainer();
     var logoToolTip = $('<div></div>')
             .addClass('player-tooltip')
-            .html('Get This Plugin on www.Uplayer.Stream');
+            .html('Thiết kế website - Thietkeweb30s.org');
     var logoDiv = $('<a></a>')
             .addClass('jw-icon jw-icon-inline jw-button-color jw-reset jw-logo-bar')
             .css('background-image', 'url('+videoPlayer.getConfig().logo.logoBar+')')
