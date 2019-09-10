@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="580"
+   height="580"
+   version="1.1"
+   id="svg4064"
+   sodipodi:docname="loader.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata4068">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview4066"
+     showgrid="false"
+     inkscape:zoom="0.40689655"
+     inkscape:cx="290"
+     inkscape:cy="290"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4064" />
+  <defs
+     id="defs4056">
+    <style
+       id="style4054">circle{fill:#fff;animation:spinner_rotate 10s linear infinite;}.correct{transform:translate(290px,290px);}@keyframes spinner_rotate{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}</style>
+  </defs>
+  <path
+     fill="#FFF"
+     d="M290 553C144.2 553 26 434.8 26 289S144.2 25 290 25s264 118.2 264 264-118.2 264-264 264zm0-521C148.06 32 33 147.06 33 289s115.06 257 257 257 257-115.06 257-257S431.94 32 290 32z"
+     id="path4058"
+     style="fill:#ffffff" />
+  <g
+     class="correct"
+     id="g4062"
+     style="fill:#ffffff">
+    <circle
+       cx="258"
+       cy="28"
+       r="30"
+       id="circle4060"
+       style="fill:#ffffff" />
+  </g>
+</svg>
