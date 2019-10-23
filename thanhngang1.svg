@@ -9,6 +9,20 @@ viewBox="0 0 8783 667"
    <![CDATA[
     .str0 {stroke:#ED3237;stroke-width:26.6654}
     .fil0 {fill:none}
+.str0{
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 5s linear alternate infinite;
+}
+ 
+@keyframes dash {
+  from {
+    stroke-dashoffset: 3000;
+}
+  to {
+    stroke-dashoffset: 0;
+  }
+}
    ]]>
   </style>
  </defs>
