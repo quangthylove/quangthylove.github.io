@@ -7,7 +7,7 @@ viewBox="0 0 8783 667"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#fff;stroke-width:26.6654}
+    .str0 {fill:#E51515;stroke:#fff;stroke-width:26.6654}
     .fil0 {fill:none}
 .str0{
   stroke-dasharray: 1000;
