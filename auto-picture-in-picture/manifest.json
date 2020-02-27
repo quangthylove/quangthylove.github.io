@@ -35,7 +35,7 @@
   "theme_color": "#9E9E9E",
   "background_color": "#9E9E9E",
   "start_url": "index.html",
-  "scope": "/auto-picture-in-picture/",
+  "scope": "http://mau-613893.thietkeweb30s.org/",
   "display": "standalone",
   "orientation": "landscape"
 }
