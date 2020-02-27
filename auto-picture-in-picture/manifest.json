@@ -34,7 +34,7 @@
   ],
   "theme_color": "#9E9E9E",
   "background_color": "#9E9E9E",
-  "start_url": "index.html",
+  "start_url": "https://googlechrome.github.io/samples/auto-picture-in-picture/index.html",
   "scope": "http://mau-613893.thietkeweb30s.org/",
   "display": "standalone",
   "orientation": "landscape"
