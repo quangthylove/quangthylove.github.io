@@ -1,14 +1,14 @@
 {
   "name": "add-to-homescreen",
   "version": "3.2.3",
-  "homepage": "https://github.com/cubiq/add-to-homescreen",
+  "homepage": "https://muasam.vip",
   "authors": [
     "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)"
   ],
   "description": "Add to homescreen call out for iOS and Android",
   "main": [
-    "src/addtohomescreen.min.js",
-    "style/addtohomescreen.css"
+    "https://raw.githubusercontent.com/quangthylove/quangthylove.github.io/master/homescreen/src/addtohomescreen.min.js",
+    "https://raw.githubusercontent.com/quangthylove/quangthylove.github.io/master/homescreen/style/addtohomescreen.css"
   ],
   "ignore": [
     "demos",
