@@ -1,7 +1,7 @@
 {
-  "short_name": "Weather",
-  "name": "Weather: Do I need an umbrella?",
-  "description": "Weather forecast information",
+  "short_name": "Muasam.vip",
+  "name": "Nhà Sách Phát Đạt: 76 Trường Chinh - TP.Huế",
+  "description": "Thỏa sức mua sắm qua mạng hàng ngàn mặt hàng sách, điện tử, đồ gia dụng, quà tặng, thời trang, làm đẹp & sức khỏe tại Nhà Sách Phát Đạt với giá rẻ hơn và khuyến mãi hấp dẫn",
   "icons": [
     {
       "src": "https://lh4.googleusercontent.com/-u_occm3cgm8/XuJb0edpjXI/AAAAAAAAcxc/57J45ZRrxsUyt54x8R254AU8hfr6YPnLwCK4BGAsYHg/s320/20200611_232442.png",
@@ -14,24 +14,24 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?source=pwa",
-  "background_color": "#3367D6",
+  "start_url": "/",
+  "background_color": "#d60d1c",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#3367D6",
+  "theme_color": "#d60d1c",
   "shortcuts": [
     {
       "name": "How's weather today?",
       "short_name": "Today",
       "description": "View weather information for today",
-      "url": "/?source=pwa",
+      "url": "/",
       "icons": [{ "src": "https://lh4.googleusercontent.com/-u_occm3cgm8/XuJb0edpjXI/AAAAAAAAcxc/57J45ZRrxsUyt54x8R254AU8hfr6YPnLwCK4BGAsYHg/s320/20200611_232442.png", "sizes": "192x192" }]
     },
     {
       "name": "How's weather tomorrow?",
       "short_name": "Tomorrow",
       "description": "View weather information for tomorrow",
-      "url": "/?source=pwa",
+      "url": "/",
       "icons": [{ "src": "https://lh4.googleusercontent.com/-u_occm3cgm8/XuJb0edpjXI/AAAAAAAAcxc/57J45ZRrxsUyt54x8R254AU8hfr6YPnLwCK4BGAsYHg/s320/20200611_232442.png", "sizes": "192x192" }]
     }
   ]
