@@ -3,7 +3,7 @@ self.addEventListener('install', function(e) {
    caches.open('fox-store').then(function(cache) {
      return cache.addAll([
        '/',
-       '/pwa-examples/a2hs/index.js',
+       'https://raw.githubusercontent.com/quangthylove/quangthylove.github.io/master/index.js',
      ]);
    })
  );
